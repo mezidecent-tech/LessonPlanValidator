@@ -1,0 +1,80 @@
+{
+    "Subject": [
+        "subject"
+    ],
+
+    "Topic": [
+        "topic",
+        "unit"
+    ],
+
+    "Year": [
+        "year",
+        "class",
+        "grade",
+        "year group"
+    ],
+
+    "Learning Objectives": [
+        "learning objective",
+        "learning objectives",
+        "learning intention",
+        "walt"
+    ],
+
+    "Success Criteria": [
+        "success criteria",
+        "success criterion"
+    ],
+
+    "Starter": [
+        "starter",
+        "starter activity",
+        "hook",
+        "introduction"
+    ],
+
+    "Main Activity": [
+        "main activity",
+        "guided practice",
+        "direct teaching",
+        "lesson activity"
+    ],
+
+    "Plenary": [
+        "plenary",
+        "plenary activity",
+        "reflection",
+        "closing activity"
+    ],
+
+    "Resources": [
+        "resources",
+        "resource",
+        "materials",
+        "teaching resources",
+        "learning resources"
+    ],
+
+    "Assessment": [
+        "assessment",
+        "assessment activity",
+        "formative assessment",
+        "summative assessment",
+        "assessment for learning",
+        "afl"
+    ],
+
+    "Homework": [
+        "homework",
+        "homefun",
+        "assignment",
+        "homework activity"
+    ],
+
+    "Differentiation": [
+        "differentiation",
+        "differentiated instruction",
+        "differentiation strategies"
+    ]
+}

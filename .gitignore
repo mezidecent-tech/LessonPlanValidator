@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+reports/
+uploads/
+
+.vscode/
+.env
+
+*.tmp

@@ -1,0 +1,11 @@
+{
+    "learning_objectives": {
+        "excellent": "The learning objectives are clearly written, measurable and use appropriate action verbs. They provide learners with a clear understanding of the expected outcomes.",
+
+        "good": "The learning objectives are appropriate but could be strengthened by including a wider range of measurable action verbs.",
+
+        "fair": "The learning objectives are present but require improvement. Some objectives are vague or difficult to assess.",
+
+        "poor": "The learning objectives need significant improvement. Rewrite them using measurable action verbs."
+    }
+}

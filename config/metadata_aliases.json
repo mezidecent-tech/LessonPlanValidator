@@ -1,0 +1,58 @@
+{
+    "Teacher": [
+        "Teacher",
+        "Teacher Name",
+        "Class Teacher",
+        "CT",
+        "Prepared By",
+        "Facilitator",
+        "Instructor"
+    ],
+
+    "TA": [
+        "TA",
+        "Teacher Assistant",
+        "Teaching Assistant",
+        "Teacher's Assistant",
+        "Assistant Teacher"
+    ],
+
+    "Subject": [
+        "Subject",
+        "Learning Area",
+        "Course"
+    ],
+
+    "Topic": [
+        "Topic",
+        "Lesson Topic",
+        "Unit",
+        "Unit of Work",
+        "Theme"
+    ],
+
+    "Year": [
+        "Year",
+        "Class",
+        "Grade",
+        "Year Group"
+    ],
+
+    "Date": [
+        "Date",
+        "Lesson Date",
+        "Teaching Date"
+    ],
+
+    "School": [
+        "School",
+        "School Name",
+        "Academy"
+    ],
+
+    "Curriculum": [
+        "Curriculum",
+        "Programme",
+        "Program"
+    ]
+}
